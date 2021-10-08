@@ -1,0 +1,36 @@
+header.header {
+    z-index: 9;
+    background: #198754!important;
+}
+.btn-primary {
+    background-color: #198754;
+    border-color: #198754;
+}
+.item a.text-link {
+    color: #198754;
+}
+a.text-link:hover {
+    text-decoration: none;
+    color: #000;
+}
+footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+
+footer small {
+    padding-left: 280px;
+}
+@media only screen and (max-width: 48em) {
+    /*************** ADD MOBILE ONLY CSS HERE  ***************/
+    footer small {
+        padding-left: inherit;
+    }
+
+    footer {
+        position: inherit;
+    }
+
+}

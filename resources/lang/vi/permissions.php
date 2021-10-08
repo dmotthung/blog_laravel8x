@@ -1,0 +1,35 @@
+<?php
+/*
+language : VietNam
+*/
+return [
+    'manage_posts' => 'Quản lý bài viết',
+    'post_show' => 'Xem',
+    'post_create' => "Thêm mới",
+    'post_update' => 'Cập nhật',
+    'post_detail' => 'Chi tiết',
+    'post_delete' => 'Xóa',
+    'manage_categories' => 'Quản lý danh mục',
+    'category_show' => 'Xem',
+    'category_create' => "Thêm mới",
+    'category_update' => 'Cập nhật',
+    'category_detail' => 'Chi tiết',
+    'category_delete' => 'Xóa',
+    'manage_tags' => 'Quản lý thẻ',
+    'tag_show' => 'Xem',
+    'tag_create' => "Thêm mới",
+    'tag_update' => 'Cập nhật',
+    'tag_delete' => 'Xóa',
+    'manage_roles' => 'Quản lý vai trò',
+    'role_show' => 'Xem',
+    'role_create' => "Thêm mới",
+    'role_update' => 'Cập nhật',
+    'role_detail' => 'Chi tiết',
+    'role_delete' => 'Xóa',
+    'manage_users' => 'Quản lý thành viên',
+    'user_show' => 'Xem',
+    'user_create' => "Thêm mới",
+    'user_update' => 'Cập nhật',
+    'user_detail' => 'Chi tiết',
+    'user_delete' => 'Xóa',
+];

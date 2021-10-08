@@ -1,0 +1,48 @@
+.color-danger {
+    color: #EA0005;
+}
+
+.btn-primary {
+    background-color: #007307;
+    border-color: #007307;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+    background-color: #005105;
+    border-color: #005105;
+}
+.form-create-category .select2-container--bootstrap4 .select2-selection__clear {
+    right: 23px;
+    bottom: 10px;
+    font-size: 23px;
+    background-color: #007307;
+    border-color: transparent;
+}
+.form-create-category .select2-container--bootstrap4 .select2-selection__clear span {
+    color: #fff;
+    right: 2px;
+    position: absolute;
+    bottom: -1px;
+}
+.category-list span a {
+   padding: 0 5px;
+    font-size: 17px;
+}
+
+.swal2-styled.swal2-confirm {
+    background-color: #ce0000!important;
+}
+
+.swal2-styled.swal2-confirm:focus, .swal2-styled.swal2-cancel:focus {
+    box-shadow: none!important;
+}
+.page-link {
+    color: #007307;
+    border: 1px solid #007307;
+}
+.page-item.active .page-link {
+    background-color: #007307;
+    border-color: #007307;
+}
+
+
